@@ -32,9 +32,15 @@ Almost every weak application answer fails the same way: it's generic when it sh
 
 > Skills require **Code execution and file creation** to be enabled. They're available on Free, Pro, Max, Team, and Enterprise plans.
 
+### Fastest: download the ready-made zip
+
+**[⬇ Download `techstars-application-coach.zip`](https://github.com/YOUR_USERNAME/techstars-application-coach-skill/raw/main/techstars-application-coach.zip)**
+
+That link downloads the skill bundle directly — no cloning, no zipping. Then follow steps 2–5 of Option A to upload it.
+
 ### Option A — Claude.ai (web or desktop)
 
-1. Download `techstars-application-coach.zip` from this repo (or zip the `techstars-application-coach/` folder yourself — see note below).
+1. Get the skill zip: use the direct download link above, or zip the `techstars-application-coach/` folder yourself (see note below).
 2. In Claude, open **Settings → Capabilities** and make sure **Code execution and file creation** is on.
 3. Go to **Customize → Skills** (on some plans this is under **Settings → Capabilities → Skills**).
 4. Click **Upload skill** (the **+** button) and select the zip.
