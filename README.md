@@ -34,7 +34,7 @@ Almost every weak application answer fails the same way: it's generic when it sh
 
 ### Fastest: download the ready-made zip
 
-**[⬇ Download `techstars-application-coach.zip`](https://github.com/YOUR_USERNAME/techstars-application-coach-skill/raw/main/techstars-application-coach.zip)**
+**[⬇ Download `techstars-application-coach.zip`](https://github.com/andresbarreto-techstars/techstars-application-coach-skill/raw/main/techstars-application-coach.zip)**
 
 That link downloads the skill bundle directly — no cloning, no zipping. Then follow steps 2–5 of Option A to upload it.
 
